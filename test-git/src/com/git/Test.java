@@ -5,5 +5,7 @@ public class Test {
 		System.out.println("测试类");
 		
 		Thread thread = new Thread ();
+		int i=0;
+		i++;
 	}
 }
